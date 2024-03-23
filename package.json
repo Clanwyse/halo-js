@@ -1,18 +1,18 @@
 {
-  "name": "@supabase/auth-js",
+  "name": "@clanwyse/halo-js",
   "version": "0.0.0",
   "private": false,
-  "description": "Official client library for Supabase Auth",
+  "description": "Official client library for Clanwyse Auth",
   "keywords": [
     "auth",
-    "supabase",
+    "clanwyse",
     "auth",
     "authentication"
   ],
-  "homepage": "https://github.com/supabase/auth-js",
-  "bugs": "https://github.com/supabase/auth-js/issues",
+  "homepage": "https://github.com/clanwyse/halo-js",
+  "bugs": "https://github.com/clanwyse/halo-js/issues",
   "license": "MIT",
-  "author": "Supabase",
+  "author": "Clanwyse",
   "files": [
     "dist",
     "src"
@@ -20,7 +20,7 @@
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
   "types": "dist/module/index.d.ts",
-  "repository": "supabase/auth-js",
+  "repository": "Clanwyse/halo-js",
   "scripts": {
     "clean": "rimraf dist docs",
     "coverage": "echo \"run npm test\"",
